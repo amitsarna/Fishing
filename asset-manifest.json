@@ -1,25 +1,22 @@
 {
   "files": {
     "main.css": "/Fishing/static/css/main.6e2f107d.chunk.css",
-    "main.js": "/Fishing/static/js/main.800c40ca.chunk.js",
-    "main.js.map": "/Fishing/static/js/main.800c40ca.chunk.js.map",
+    "main.js": "/Fishing/static/js/main.ef3b4f30.chunk.js",
+    "main.js.map": "/Fishing/static/js/main.ef3b4f30.chunk.js.map",
     "runtime-main.js": "/Fishing/static/js/runtime-main.ecd8ba14.js",
     "runtime-main.js.map": "/Fishing/static/js/runtime-main.ecd8ba14.js.map",
     "static/js/2.50d4defc.chunk.js": "/Fishing/static/js/2.50d4defc.chunk.js",
     "static/js/2.50d4defc.chunk.js.map": "/Fishing/static/js/2.50d4defc.chunk.js.map",
     "index.html": "/Fishing/index.html",
-    "precache-manifest.22b9b12194cd920c119c122796445424.js": "/Fishing/precache-manifest.22b9b12194cd920c119c122796445424.js",
+    "precache-manifest.2164b4375fc0ed700b3a4573dde496ff.js": "/Fishing/precache-manifest.2164b4375fc0ed700b3a4573dde496ff.js",
     "service-worker.js": "/Fishing/service-worker.js",
     "static/css/main.6e2f107d.chunk.css.map": "/Fishing/static/css/main.6e2f107d.chunk.css.map",
-    "static/js/2.50d4defc.chunk.js.LICENSE.txt": "/Fishing/static/js/2.50d4defc.chunk.js.LICENSE.txt",
-    "static/media/molly.jpg": "/Fishing/static/media/molly.bd361ee3.jpg",
-    "static/media/pedro.jpg": "/Fishing/static/media/pedro.04d3967d.jpg",
-    "static/media/suzy.jpg": "/Fishing/static/media/suzy.674be83f.jpg"
+    "static/js/2.50d4defc.chunk.js.LICENSE.txt": "/Fishing/static/js/2.50d4defc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ecd8ba14.js",
     "static/js/2.50d4defc.chunk.js",
     "static/css/main.6e2f107d.chunk.css",
-    "static/js/main.800c40ca.chunk.js"
+    "static/js/main.ef3b4f30.chunk.js"
   ]
 }
