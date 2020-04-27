@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed1c0829980939d62f97e289ec3a4abd",
+    "revision": "96bf8417dedcd3bea3a560f64cea4766",
     "url": "/Fishing/index.html"
   },
   {
-    "revision": "9a481fbbebd0d3a7c3ed",
-    "url": "/Fishing/static/css/main.45989561.chunk.css"
+    "revision": "ef6f8dd216c22949ed50",
+    "url": "/Fishing/static/css/main.ce70a3f7.chunk.css"
   },
   {
     "revision": "95530d6b16f044da586a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Fishing/static/js/2.9b0f427a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a481fbbebd0d3a7c3ed",
-    "url": "/Fishing/static/js/main.e573d4ce.chunk.js"
+    "revision": "ef6f8dd216c22949ed50",
+    "url": "/Fishing/static/js/main.ebb598f0.chunk.js"
   },
   {
     "revision": "a2f6c2b5237c0c8c3a0b",
